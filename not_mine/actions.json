@@ -1,0 +1,33 @@
+{
+  "steps": [
+    {
+      "Click Button": {
+        "button": "cmd_l"
+      }
+    },
+    {
+      "Type": {
+        "text": "paint"
+      }
+    },
+    {
+      "Click Button": {
+        "button": "enter"
+      }
+    },
+    {
+      "Click at position": {
+        "coordinate_x": 535,
+        "coordinate_y": 492
+      }
+    },
+    {
+      "Press mouse button": {
+      }
+    },
+    {
+      "Draw line": {
+      }
+    }
+  ]
+}
